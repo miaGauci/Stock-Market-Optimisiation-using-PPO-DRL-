@@ -76,14 +76,3 @@ The research explores how PPO agents trained on different neural architectures (
 | **Buy & Hold** | – | 103% | Moderate | Passive benchmark |
 
 ---
-
-## ⚙️ Technologies Used
-
-- **Python 3.10+**
-- **TensorFlow / PyTorch** – Deep learning frameworks  
-- **Gymnasium** – Environment design  
-- **yfinance**, **NumPy**, **pandas**, **matplotlib** – Data handling and visualization  
-- **scikit-learn** – Preprocessing and normalization  
-- **Jupyter Notebooks** – Experiment analysis  
-
----
